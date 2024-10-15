@@ -3,7 +3,7 @@
 
 Based on given lowerbound and upperbound thresholds, create a grouping between the given range such as “0-50K”, “50K-100K” etc.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1729031212765/3f44ab01-97cf-48cf-bc3b-cc12fa19e94a.png align="center")
+![](Capture.png align="center")
 
 ## Solution:
 
