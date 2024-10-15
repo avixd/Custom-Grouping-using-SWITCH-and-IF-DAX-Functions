@@ -1,5 +1,5 @@
 # Custom-Grouping-using-SWITCH-and-IF-DAX-Functions
-# Problem Statement:
+## Problem Statement:
 
 Based on given lowerbound and upperbound thresholds, create a grouping between the given range such as “0-50K”, “50K-100K” etc.
 
